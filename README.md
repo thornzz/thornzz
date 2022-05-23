@@ -25,7 +25,6 @@
 - HTML
 - CSS
 - JavaScript
-- MVC Applications using ASP.Net Core
 - Web API Applications using ASP.Net Core
 - 3CX Call Control Api
 - SIP Technologies
