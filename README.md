@@ -19,6 +19,7 @@
 - 📫 How to reach me ibrahim@iakgun.dev
     
 <h1> Skills 💻 </h1>
+    
 - Object-Oriented Programming with C# Language
 - Database Management with Microsoft SQL Server
 - HTML
