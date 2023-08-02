@@ -21,11 +21,14 @@
 <h1> Skills 💻 </h1>
     
 - Object-Oriented Programming with C# Language
-- Database Management with Microsoft SQL Server
+- Database Management with any RDBMS
 - HTML
 - CSS
 - JavaScript
+- React
 - Web API Applications using ASP.Net Core
 - 3CX Call Control Api
 - SIP Technologies
+- Docker & Kubernetes
+- Unix & Windows OS Administration
 
